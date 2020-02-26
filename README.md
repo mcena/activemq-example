@@ -1,4 +1,3 @@
-# activemq-example
-simple standalone activemq
+# Standalone ActiveMQ Example
 
-Standalone ActiveMQ example using REST API
+Simple standalone ActiveMQ example using REST API
